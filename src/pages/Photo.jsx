@@ -3,12 +3,12 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 function Photo() {
   const images = [
-    { src: 'public/images/2JcqslpUCT0TUF08N0pU.webp', alt: 'Слон, який йде' },
-    { src: 'public/images/7vJB6gzCdF0aKswBNyvR.webp', alt: 'Слон в траві' },
-    { src: 'public/images/7wAJ3gfOO5LH4Z9KJUxK.webp', alt: 'Слон біля води' },
-    { src: 'public/images/8qFggtin5hxYDjGeYaxw.webp', alt: 'Красивий слон' },
-    { src: 'public/images/HOUtBwzvoBZad6MB8F8Z.webp', alt: 'Слон в лісі' },
-    { src: 'public/images/k9M2ndDdyFwPy43chxnq.webp', alt: 'Грайливі слони' }
+    { src: '/images/2JcqslpUCT0TUF08N0pU.webp', alt: 'Слон, який йде' },
+    { src: '/images/7vJB6gzCdF0aKswBNyvR.webp', alt: 'Слон в траві' },
+    { src: '/images/7wAJ3gfOO5LH4Z9KJUxK.webp', alt: 'Слон біля води' },
+    { src: '/images/8qFggtin5hxYDjGeYaxw.webp', alt: 'Красивий слон' },
+    { src: '/images/HOUtBwzvoBZad6MB8F8Z.webp', alt: 'Слон в лісі' },
+    { src: '/images/k9M2ndDdyFwPy43chxnq.webp', alt: 'Грайливі слони' }
   ];
 
   return (
